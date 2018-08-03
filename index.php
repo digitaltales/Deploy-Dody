@@ -1,5 +1,5 @@
 <?php
 
-echo "yay ma doppio!!!!";
+echo "yay ma doppio!!!! LOL";
 
 ?>
